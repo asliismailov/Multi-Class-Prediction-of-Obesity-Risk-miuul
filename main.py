@@ -5,7 +5,7 @@ import joblib
 import plotly.express as px
 
 # Modeli joblib ile yükle
-model = joblib.load("BAU_Miuul_final_model.pkl")
+model = joblib.load("final_model.pkl")
 
 
 def display_about():
